@@ -6,7 +6,7 @@
 - 💻 Codeforces Specialist (1456 rating)
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=dhruv8642&show_icons=true&theme=tokyonight)  
+![Stats](https://github-readme-stats.vercel.app/api?username=dhruvvurhd&show_icons=true&theme=tokyonight)  
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvvurhd&theme=tokyonight)
 
 ## 🐍 Contributions
