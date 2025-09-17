@@ -1,6 +1,5 @@
 # Hi, I'm Dhruv 👋  
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F700&width=500&lines=Competitive+Programmer;C%2B%2B+%26+DSA+Enthusiast;Aspiring+Software+Engineer)
 
 ## 🚀 About Me
 - 🎓 Mathematics & ECE undergraduate at BITS Pilani  
