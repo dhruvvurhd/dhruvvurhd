@@ -7,7 +7,7 @@
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=dhruv8642&show_icons=true&theme=tokyonight)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruv8642&theme=tokyonight)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvvurhd&theme=tokyonight)
 
 ## 🐍 Contributions
-![Snake animation](https://github.com/dhruv8642/dhruv8642/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/dhruvvurhd/dhruvvurhd/blob/output/github-contribution-grid-snake.svg)
