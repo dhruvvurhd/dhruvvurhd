@@ -3,7 +3,6 @@
 
 ## 🚀 About Me
 - 🎓 Mathematics & ECE undergraduate at BITS Pilani  
-- 💻 Codeforces Specialist (1456 rating)
 
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=dhruvvurhd&show_icons=true&theme=tokyonight)  
